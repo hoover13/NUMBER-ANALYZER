@@ -1,0 +1,14 @@
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/bin/Debug/net8.0/Number-Analyzer
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/bin/Debug/net8.0/Number-Analyzer.deps.json
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/bin/Debug/net8.0/Number-Analyzer.runtimeconfig.json
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/bin/Debug/net8.0/Number-Analyzer.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/bin/Debug/net8.0/Number-Analyzer.pdb
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.AssemblyInfoInputs.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.AssemblyInfo.cs
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.csproj.CoreCompileInputs.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/refint/Number-Analyzer.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.pdb
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/Number-Analyzer.genruntimeconfig.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/NUMBER-ANALYZER/Number-Analyzer/obj/Debug/net8.0/ref/Number-Analyzer.dll
